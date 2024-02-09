@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Casstics
 - 👀 I’m interested in programming, games and music
 - 🌱 I’m currently learning about programming, coding as i'm new to this
-- 💞️ I’m looking to collaborate on not really anything atm
+- 💞️ I’m not looking to collaborate on really anything atm
 - 📫 How to reach me - atm no
 
 <!---
